@@ -36,7 +36,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "8695023962:AAHzJPmh96Q_je_JYpeb3v2y-bTjtUTyR7o" 
+BOT_TOKEN = "9278681199:AAELNvPpbqJsn3_dcic-sB3f8XKzAnf9dLM" 
 OWNER_ID = 5621481813 
 
 # --- CONSTANTS ---
